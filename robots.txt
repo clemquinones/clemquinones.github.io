@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://clemquinones.github.io/sitemap.xml
